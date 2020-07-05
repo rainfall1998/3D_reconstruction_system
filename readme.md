@@ -10,7 +10,7 @@
 
 系统的大致分为五个部分：
 
-![picture](.\data\picture\system.png)
+![system](./data/picture/system.png)
 
 - 深度图获取部分
 - 相机位姿获取部分
