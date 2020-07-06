@@ -107,6 +107,12 @@ data_transfer.py：处理colmap dense重建得到的数据
 
 ply_transfer_octomap：将PLY文件转化为八叉树文件
 
+**(6) 部分软件使用说明**
+
+放在software_record里面，是一些软件的使用方法以及注意事项，后续会陆续更新。
+
+现有colmap，MVE的使用说明
+
 
 
 
