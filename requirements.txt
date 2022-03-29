@@ -55,7 +55,7 @@ opencv-contrib-python==4.2.0.34
 opencv-python==4.2.0.34
 packaging==20.3
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.7.0
 path.py==10.3.1
 pickleshare==0.7.5
