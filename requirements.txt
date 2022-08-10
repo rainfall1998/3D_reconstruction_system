@@ -43,7 +43,7 @@ msgpack==1.0.0
 msgpack-python==0.5.6
 msgpack-rpc-python==0.4.1
 multiprocess==0.70.9
-nbconvert==5.2.1
+nbconvert==6.3.0
 nbformat==4.4.0
 networkx==1.11
 notebook==6.0.3
