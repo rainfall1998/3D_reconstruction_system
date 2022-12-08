@@ -4,7 +4,7 @@ autolab-core==0.0.14
 backcall==0.1.0
 bcrypt==3.1.7
 bleach==3.1.5
-certifi==2020.4.5.2
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 colorlog==4.1.0
